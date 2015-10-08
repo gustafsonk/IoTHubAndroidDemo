@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('iothub-java-client-1.0.0-preview.3-with-deps.jar'))
